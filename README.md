@@ -6,4 +6,3 @@ It's pulling in quotes from Jachinto Design's [quote API](https://jacintodesign.
 ![quotes_mobile](https://github.com/audreyclarkdev/quote-generator-9000/assets/37598784/3f9c1241-c522-4163-9db0-a9c668fcf46c)
 
 ### (**Disclaimer:** I do not codone or agree with every quote that could possibly come up. There are real stupid ones, really opinionated political ones, but **more importantly there are quite a few randomly hilarious ones that are worth finding.**)
-### I 
