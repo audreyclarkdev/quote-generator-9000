@@ -1,6 +1,6 @@
-# Please enjoy this quote generator! :fountain_pen: :game_die:
+## Please enjoy this quote generator! :fountain_pen: :game_die:
 
-Click here for the live site: https://audreyclarkdev.github.io/quote-generator-9000/
+### View here: https://audreyclarkdev.github.io/quote-generator-9000/
 
 This JS project is pulling in quotes from Jachinto Design's [quote API](https://jacintodesign.github.io/quotes-api/data/quotes.json). The tweet button was more fun to build and use than what "X's" would be with the current branding. You can tweet any quote with this button - if you still have an X, formerly Twitter, account. 
 
